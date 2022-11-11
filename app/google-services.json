@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303524112652",
+    "project_id": "signup-ae308",
+    "storage_bucket": "signup-ae308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303524112652:android:9b577e8b2e4822e08b4129",
+        "android_client_info": {
+          "package_name": "com.example.android.marsphotos.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303524112652-30odj8ubjbe4a7uajtvom2c2pm4jdvab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBid3-ybjwAPw4pYAGs5hItYa7uUunD3rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303524112652-30odj8ubjbe4a7uajtvom2c2pm4jdvab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
